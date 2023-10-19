@@ -31,6 +31,3 @@ Be aware that certain dog breeds look very similar. The more the algorithm learn
 ## Conclusion
 This project challenges your Python skills in image classification and algorithm evaluation. By the end, you'll have a better understanding of which CNN architecture works "best" for classifying dogs and potentially their breeds.
 
-For any questions or clarifications, refer to the FAQs or reach out for support.
-
-Enjoy working on this fascinating image classification project!
